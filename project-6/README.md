@@ -8,5 +8,6 @@ This unsupervised learning project segments companies based on key financial ind
 - Feature Scaling
 - K-Means Clustering
 - Hierarchical Clustering
+- Cluster Profiling
 
 **Tools:** Python, Scikit-learn, Pandas, Seaborn
