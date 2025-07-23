@@ -28,6 +28,10 @@ The projects cover a wide range of data science techniques, including data wrang
    - Built classification models to predict visa approval outcomes based on applicant profiles.  
    - **Skills & Tools**: Feature Engineering, Bagging, Random Forest, AdaBoost, GradientBoosting, XGBoost, Stacking, Hyperparameter Tuning (scikit-learn)
 
+6. **Unsupervised Learning - Trade & Ahead**
+   - Used clustering techniques to segment companies based on financial metrics, uncovering patterns in stock performance for informed investment strategies.
+   - **Skills & Tools**: EDA, K-Means Clustering, Hierarchical Clustering, Data Scaling, Python (Pandas, Seaborn, Scikit-learn)
+
 ---
 
 ## Program Info
